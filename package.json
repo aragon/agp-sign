@@ -1,0 +1,15 @@
+{
+  "name": "agp-sign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Aragon Association",
+  "license": "GPL 3.0",
+  "dependencies": {
+    "execa": "^1.0.0",
+    "got": "^9.5.0"
+  },
+  "bin": {
+    "agp-sign": "index.js"
+  }
+}
